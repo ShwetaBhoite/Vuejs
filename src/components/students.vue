@@ -202,7 +202,6 @@ export default {
 
 methods:{
    addStudentData : function(){
-     if(this.fullName)
      this.dummyData.push(this.myData);
      this.myData = [];
      this.showAddModal = false;
