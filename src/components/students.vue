@@ -47,7 +47,7 @@
                         <td><a class="text-secondary"><i class="fas fa-wallet fa-lg" v-on:click="Fees(data.fullName)"></i></a></td></tr>
                        
                     
-            </tbody>
+           </tbody>
         </table>
      </div>
    </div>
